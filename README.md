@@ -284,7 +284,7 @@ This project is open source and available under the **MIT License**.
 ### 🌟 If this helped you stay focused, give it a star! 🌟
 
 [![GitHub stars](https://img.shields.io/github/stars/willow788/pomodoro-timer?style=social)](https://github.com/willow788/pomodoro-timer/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/willow788/pomodoro-timer? style=social)](https://github.com/willow788/pomodoro-timer/network/members)
+[![GitHub forks](https://img.shields.io/github/forks/<user>/<repo>)
 
 **Made with 🍅, Python 🐍, and a sprinkle of AI magic ✨**
 
